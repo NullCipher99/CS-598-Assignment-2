@@ -1,0 +1,80 @@
+Graph created with 420877 edges and 34546 nodes.
+
+==================================================
+Running Leiden with CPM (0.01).
+Runtime: 2.67 s
+
+-Leiden CPM (0.01)-
+Clustering:
+Total nodes: 34546
+Total edges: 257410
+Total clusters: 2038
+Singleton clusters: 1253
+Non-singleton clusters: 785
+Singleton clusters percentage: 61.48%
+Non-singleton clusters percentage: 38.52%
+
+Non-Singleton Cluster Size Distribution:
+Minimum size: 2
+First quartile: 2.00
+Median size: 9.00
+Third quartile: 36.00
+Maximum size: 645
+
+Node-Coverage:
+Nodes in non-singleton clusters: 33293
+Node-coverage percentage: 96.37%
+
+==================================================
+Running Leiden with CPM (0.001).
+Runtime: 2.68 s
+
+-Leiden CPM (0.001)-
+Clustering:
+Total nodes: 34546
+Total edges: 337945
+Total clusters: 1294
+Singleton clusters: 929
+Non-singleton clusters: 365
+Singleton clusters percentage: 71.79%
+Non-singleton clusters percentage: 28.21%
+
+Non-Singleton Cluster Size Distribution:
+Minimum size: 2
+First quartile: 2.00
+Median size: 3.00
+Third quartile: 6.00
+Maximum size: 3612
+
+Node-Coverage:
+Nodes in non-singleton clusters: 33617
+Node-coverage percentage: 97.31%
+
+==================================================
+Running Leiden with Modularity.
+Runtime: 2.82 seconds
+
+-Leiden Modularity-
+Clustering:
+Total nodes: 34546
+Total edges: 350769
+Total clusters: 82
+Singleton clusters: 0
+Non-singleton clusters: 82
+Singleton clusters percentage: 0.00%
+Non-singleton clusters percentage: 100.00%
+
+Non-Singleton Cluster Size Distribution:
+Minimum size: 2
+First quartile: 2.00
+Median size: 2.00
+Third quartile: 5.75
+Maximum size: 4028
+
+Node-Coverage:
+Nodes in non-singleton clusters: 34546
+Node-coverage percentage: 100.00%
+
+==================================================
+
+- MISSION COMPLETED -
